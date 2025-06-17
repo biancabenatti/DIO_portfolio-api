@@ -1,6 +1,5 @@
 {
   "name": "Bianca Pichirilo Vergueiro Benatti",
-  "photo": "https://avatars.githubusercontent.com/u/100275056?v=4",
   "job": "Estagiária em Desenvolvimento Front-end",
   "location": "Sorocaba - SP",
   "phone": "(19) 983702302",
@@ -67,16 +66,6 @@
       "name": "Bitize",
       "period": "Julho 2024 - Novembro 2024",
       "description": "Estagiária em Desenvolvimento Front-end"
-    },
-    {
-      "name": "Laboratório Toxicológico",
-      "period": "Ano - Ano",
-      "description": "Analista de Laboratório (ICP-MS e ICPOES)"
-    },
-    {
-      "name": "Biomedicina e Estética",
-      "period": "Ano - Ano",
-      "description": "Biomédica Esteta e Responsável Técnica em Posto de Coleta"
     }
   ]
 }
