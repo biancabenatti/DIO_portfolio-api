@@ -53,6 +53,23 @@
     }
     
   ],
+  "Educação": [
+    {
+      "institution": "Faculdade de Tecnologia de Sorocaba (FATEC)",
+      "course": "Desenvolvimento de Software Multiplataforma",
+      "period": "Julho 2023 - Agosto 2026"
+    },
+    {
+      "institution": "Faculdade Líbano",
+      "course": "Pós-graduação em Cosmetologia e Estética de Injetáveis",
+      "period": "Jan 2021 - Fev 2022"
+    },
+    {
+      "institution": "Centro Regional Universitário de Espírito Santo do Pinhal",
+      "course": "Bacharelado em Biomedicina",
+      "period": "2016 - 2019"
+    }
+  ],
   "professionalExperience": [
     {
       "name": "GFT-Technologies",
