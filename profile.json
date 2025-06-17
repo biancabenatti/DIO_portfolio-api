@@ -1,0 +1,82 @@
+{
+  "name": "Bianca Pichirilo Vergueiro Benatti",
+  "photo": "https://avatars.githubusercontent.com/u/100275056?v=4",
+  "job": "Estagiária em Desenvolvimento Front-end",
+  "location": "Sorocaba - SP",
+  "phone": "(19) 983702302",
+  "email": "bianca071995@egmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "React",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Tailwind CSS",
+        "logo": "https://tailwindcss.com/_next/static/media/social-square.38b04e9c.png"
+      },
+      {
+        "name": "HTML5",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      }
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Aprendizado contínuo",
+      "Flexibilidade",
+      "Comunicação"
+    ]
+  },
+  "languages": [
+    "Português (nativo)",
+    "Inglês (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto NotaGest",
+      "url": "https://github.com/biancabenatti/NotaGestTypeScript",
+      "github": true
+    },
+    {
+      "name": "Projeto BookNest",
+      "url": "https://github.com/biancabenatti/BookNest",
+      "github": true
+    }
+    
+  ],
+  "professionalExperience": [
+    {
+      "name": "GFT-Technologies",
+      "period": "Novembro 2024 - Presente",
+      "description": "Estagiária em Desenvolvimento Pega"
+    },
+    {
+      "name": "Bitize",
+      "period": "Julho 2024 - Novembro 2024",
+      "description": "Estagiária em Desenvolvimento Front-end"
+    },
+    {
+      "name": "Laboratório Toxicológico",
+      "period": "Ano - Ano",
+      "description": "Analista de Laboratório (ICP-MS e ICPOES)"
+    },
+    {
+      "name": "Biomedicina e Estética",
+      "period": "Ano - Ano",
+      "description": "Biomédica Esteta e Responsável Técnica em Posto de Coleta"
+    }
+  ]
+}
