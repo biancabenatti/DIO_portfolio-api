@@ -9,27 +9,23 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/javascript-original.svg"
       },
       {
         "name": "React",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      },
-      {
-        "name": "Tailwind CSS",
-        "logo": "https://tailwindcss.com/_next/static/media/social-square.38b04e9c.png"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/react-original.svg"
       },
       {
         "name": "HTML5",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/html5-original.svg"
       },
       {
         "name": "CSS3",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/css3-original.svg"
       },
       {
         "name": "TypeScript",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/typescript-original.svg"
       }
     ],
     "softSkills": [
