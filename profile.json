@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/img/javascript-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/img/javascript.svg"
       },
       {
         "name": "React",
-        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/img/react-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/img/react.svg"
       },
       {
         "name": "HTML5",
