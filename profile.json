@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/javascript-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/img/javascript-original.svg"
       },
       {
         "name": "React",
-        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/react-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/img/react-original.svg"
       },
       {
         "name": "HTML5",
-        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/html5-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/img/html5-original.svg"
       },
       {
         "name": "CSS3",
-        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/css3-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/img/css3-original.svg"
       },
       {
         "name": "TypeScript",
-        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/profile.json/img/typescript-original.svg"
+        "logo": "https://biancabenatti.github.io/DIO_portfolio-api/img/typescript-original.svg"
       }
     ],
     "softSkills": [
